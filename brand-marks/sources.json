@@ -1,0 +1,189 @@
+{
+  "purpose": "原始品牌标识的来源，供非官方个人拟人头像对照展示。",
+  "rights": "品牌名称和原始标识归各自权利人所有；头像为非官方个人作品，不代表相关品牌认可。",
+  "items": [
+    {
+      "id": "codex",
+      "name": "Codex / GPT",
+      "file": "codex.png",
+      "source_url": "https://openai.com/brand/",
+      "identity": "以 GPT / OpenAI 结形标识诠释 Codex；此对照不将它称为 Codex 专用图标。"
+    },
+    {
+      "id": "claude-code",
+      "name": "Claude Code",
+      "file": "claude-code.png",
+      "source_url": "https://www.anthropic.com/",
+      "identity": "采用 Claude 同品牌星芒标识，配以陶土橙与奶油色。"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek Harness",
+      "file": "deepseek.png",
+      "source_url": "https://www.deepseek.com/",
+      "download_url": "https://www.deepseek.com/favicon.ico",
+      "identity": "采用 DeepSeek 品牌蓝鲸标识诠释 DeepSeek Harness。"
+    },
+    {
+      "id": "antigravity",
+      "name": "Antigravity",
+      "file": "antigravity.png",
+      "source_url": "https://antigravity.google/press",
+      "identity": "彩色渐变 A 标识；品牌来源页为 Antigravity Press Assets。"
+    },
+    {
+      "id": "hermes",
+      "name": "Hermes Agent",
+      "file": "hermes.png",
+      "source_url": "https://github.com/NousResearch/hermes-agent",
+      "identity": "以 Hermes Desktop 的黑白 Nous 女孩标识为参照。"
+    },
+    {
+      "id": "pi",
+      "name": "Pi Coding Agent",
+      "file": "pi.svg",
+      "source_url": "https://pi.dev/press-kit",
+      "download_url": "https://pi.dev/logo-auto.svg",
+      "identity": "Pi Coding Agent 的珊瑚、蓝、金黄三色几何字标；不是 Inflection Pi。"
+    },
+    {
+      "id": "glm",
+      "name": "ZCode",
+      "file": "glm.png",
+      "provider": "智谱 / Z.ai",
+      "kind": "编程 Agent",
+      "source_url": "https://zcode.z.ai/",
+      "download_url": "https://raw.githubusercontent.com/zai-org/ZCode/main/public/logo/icons/1024x1024.png",
+      "identity": "ZCode 官方应用图标；ZCode 是 GLM 对应的官方 coding harness。",
+      "colors": [
+        "#FFFFFF",
+        "#000000",
+        "#151717"
+      ]
+    },
+    {
+      "id": "xiaomi",
+      "name": "MiMo Code",
+      "file": "xiaomi.png",
+      "provider": "小米",
+      "kind": "编程 Agent",
+      "source_url": "https://mimo.xiaomi.com/mimocode",
+      "download_url": "https://mimo.mi.com/static/mimo-code.a1594b207bbc4bee.svg",
+      "identity": "小米官网用于 MiMo Code 的黑白 Xiaomi MiMo 标识；橙色来自小米母品牌。",
+      "colors": [
+        "#000000",
+        "#FFFFFF",
+        "#FF6900"
+      ]
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi Code",
+      "file": "kimi.png",
+      "provider": "月之暗面 / Moonshot AI",
+      "kind": "编程 Agent",
+      "source_url": "https://www.kimi.com/code",
+      "download_url": "https://www.kimi.com/pwa-192.png",
+      "identity": "Kimi Code 官网使用的 Kimi 品牌图标。",
+      "colors": [
+        "#000000",
+        "#FFFFFF",
+        "#1783FF"
+      ]
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen Code",
+      "file": "qwen.png",
+      "provider": "阿里巴巴",
+      "kind": "编程 Agent",
+      "source_url": "https://qwenlm.github.io/qwen-code-docs/",
+      "download_url": "https://qwenlm.github.io/qwen-code-docs/favicon.png",
+      "identity": "Qwen Code 官方文档使用的紫色 Qwen 标识；与千问消费端的蓝色版本有区别。",
+      "colors": [
+        "#632DE4",
+        "#6250EB",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "id": "doubao",
+      "name": "豆包",
+      "file": "doubao.png",
+      "provider": "字节跳动",
+      "kind": "AI 助手",
+      "source_url": "https://www.doubao.com/",
+      "download_url": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/favicon/new-doubao/192x192.png",
+      "identity": "豆包官方助手头像；原图没有专属发卡标识。",
+      "colors": [
+        "#CAE4FF",
+        "#47332E",
+        "#F8D7CD",
+        "#242424"
+      ]
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax Code",
+      "file": "minimax.png",
+      "provider": "MiniMax",
+      "kind": "编程 Agent",
+      "source_url": "https://github.com/MiniMax-AI/minimax-code",
+      "download_url": "https://agent.minimax.io/assets/logo/favicon-512_v2.png?v=2",
+      "identity": "MiniMax Agent 平台官方图标，用于对应 MiniMax Code；不是独立的 CLI 专属标识。",
+      "colors": [
+        "#7DC6FF",
+        "#000000",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "id": "hunyuan",
+      "name": "腾讯混元",
+      "file": "hunyuan.png",
+      "provider": "腾讯",
+      "kind": "AI 模型",
+      "source_url": "https://hunyuan.tencent.com/",
+      "download_url": "https://hunyuan-blog-web-prod-1258344703.cos.ap-guangzhou.myqcloud.com/logo.svg",
+      "identity": "腾讯混元官网的模型品牌图标；此项代表混元模型，不代表元宝或 WorkBuddy。",
+      "colors": [
+        "#0053E0",
+        "#2AB9FF",
+        "#B3DDF2",
+        "#ECECEE"
+      ]
+    },
+    {
+      "id": "wenxin",
+      "name": "文心 ERNIE",
+      "file": "wenxin.png",
+      "provider": "百度",
+      "kind": "AI 模型",
+      "source_url": "https://ernie.baidu.com/blog/",
+      "download_url": "https://ernie.baidu.com/blog/img/favicon.ico",
+      "identity": "百度 ERNIE 官方模型博客图标；此项代表文心模型，不声称是文心助手的应用图标。",
+      "colors": [
+        "#158DE2",
+        "#0752CA",
+        "#002C5C",
+        "#FFFFFF"
+      ]
+    },
+    {
+      "id": "openclaw",
+      "name": "OpenClaw",
+      "file": "openclaw.png",
+      "provider": "OpenClaw",
+      "kind": "个人 AI 助手",
+      "source_url": "https://openclaw.ai/",
+      "download_url": "https://openclaw.ai/favicon.svg",
+      "identity": "官网原始 SVG 标志，等比例渲染为 PNG。圆润红色龙虾轮廓，两侧小钳、顶部双触角，深色圆眼带青绿色亮点。官方仓库：https://github.com/openclaw/openclaw。",
+      "colors": [
+        "#FF4D4D",
+        "#991B1B",
+        "#050810",
+        "#00E5CC"
+      ]
+    }
+  ]
+}
