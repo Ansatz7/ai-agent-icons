@@ -1,6 +1,6 @@
 # AI 头像集
 
-15 款 AI 相关角色的非官方拟人头像，以及用于对照的品牌原标识。
+16 款 AI 相关角色的非官方拟人头像，以及用于对照的品牌原标识。
 
 [在线浏览](https://icons.ansatz-vector.com/)
 
@@ -28,6 +28,7 @@ brand-marks/
 | Codex / GPT | `codex` | [查看](avatars/png/512/codex.png) |
 | Claude Code | `claude-code` | [查看](avatars/png/512/claude-code.png) |
 | DeepSeek Harness | `deepseek` | [查看](avatars/png/512/deepseek.png) |
+| Grok Bot | `grok` | [查看](avatars/png/512/grok.png) |
 | Antigravity | `antigravity` | [查看](avatars/png/512/antigravity.png) |
 | Hermes Agent | `hermes` | [查看](avatars/png/512/hermes.png) |
 | Pi Coding Agent | `pi` | [查看](avatars/png/512/pi.png) |

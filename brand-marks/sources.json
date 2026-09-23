@@ -25,6 +25,24 @@
       "identity": "采用 DeepSeek 品牌蓝鲸标识诠释 DeepSeek Harness。"
     },
     {
+      "id": "grok",
+      "name": "Grok Bot",
+      "file": "grok.svg",
+      "provider": "xAI / SpaceXAI",
+      "kind": "AI 助手",
+      "source_url": "https://grok.com/",
+      "download_url": "https://data.x.ai/logos/SpaceXAI_Grok_Assets.zip",
+      "identity": "Grok orbital-ring symbol with diagonal tapered sweep; exact visible SVG path geometries from official homepage, not the X logo or corporate wordmark.",
+      "colors": [
+        "#111111",
+        "#333638",
+        "#FCFCFC",
+        "#F5F0E8",
+        "#F6C5C7",
+        "#202523"
+      ]
+    },
+    {
       "id": "antigravity",
       "name": "Antigravity",
       "file": "antigravity.png",
